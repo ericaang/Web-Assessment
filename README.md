@@ -2,7 +2,7 @@
 
 What did you like about this project?
 
-This is a very challenging project for me. It gives me chance to make use of what I had learn so far.
+This is a very challenging project for me. It gives me a chance to make use of what I had learnt so far.
 
 What did you struggle with in this project?
 
