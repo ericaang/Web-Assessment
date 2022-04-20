@@ -10,4 +10,4 @@ There is alot of details involved, eg. size, dimension, it takes alot of concent
 
 What would make your experience with this assessment better?
 
-Take more time to plan at each section before starting to code.
+Take more time to plan each section before starting to code.
